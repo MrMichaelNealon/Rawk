@@ -1,0 +1,23 @@
+{
+  "name": "rawk",
+  "version": "1.0.0",
+  "description": "Guitar scale and chord database application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMichaelNealon/Rawk.git"
+  },
+  "author": "Michael Nealon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrMichaelNealon/Rawk/issues"
+  },
+  "homepage": "https://github.com/MrMichaelNealon/Rawk#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.3.9"
+  }
+}
